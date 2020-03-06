@@ -16,3 +16,8 @@ Remember in the case of `.env` files you should deploy to Heroku, temporarily co
 ## 2. Markdown syntax
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code
+
+
+## 3. See the differences between 2 folders
+
+`diff -rq jewelery-co-server jewelery-co-server-old`
