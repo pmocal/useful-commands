@@ -21,3 +21,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code
 ## 3. See the differences between 2 folders
 
 `diff -rq jewelery-co-server jewelery-co-server-old`
+
+## 4. Deploy Vue CLI app on Heroku
+
+https://gist.github.com/hone/24b06869b4c1eca701f9
