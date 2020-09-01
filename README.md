@@ -2,7 +2,10 @@
 
 ## 1. Keeping sensitive files off of Git
 
+In the case of a `.env` file you will want to make a copy of this file to put back in your local repo before doing the steps below.
+
 To remove a file and the history of it from a Git repository:
+
 ```
 git filter-branch --tree-filter 'rm -f <path_to_file>' HEAD
 ```
